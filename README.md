@@ -6,7 +6,7 @@ permalink: /
 
 ## Homepage
 
-[![Jekyll Themes](https://img.shields.io/badge/featured%20on-JekyllThemes-red.svg)](https://jekyll-themes.com/jekyll-gitbook/)
+[![Jekyll Themes](https://img.shields.io/badge/featured%20on-JekyllThemes-red.svg)](https://jekyll-themes.com/category/jekyll-gitbook)
 
 You can access the homepage of this website at: [https://duyooho.github.io/blogs](https://duyooho.github.io/blogs)
 
