@@ -1,16 +1,15 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
-description: >
-  Build Jekyll site with the GitBook style.
+title: Yooho's Blog Site
+longtitle: Welcome to Yooho's blog website!
+author: Yooho
+email: duyuhao0522@gmail.com
+description: The Website with Yooho's Blogs
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
-baseurl:          '/jekyll-gitbook'
+url:              'https://duyooho.github.io'
+baseurl:          '/blogs'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
@@ -44,7 +43,7 @@ markdown_ext:             markdown,mkdown,mkdn,mkd,md
 permalink:                /:categories/:year-:month-:day-:title:output_ext
 
 # Disqus comments
-# disqushandler:            sighingnow
+# disqushandler:            DuYooho
 
 exclude:
   - _drafts
