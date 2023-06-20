@@ -21,19 +21,19 @@ layout: post
 （1）仅打包:
 
 ```bash
-tar -cvf foo.tar foo
+tar -cvf foo.tar f1 f2 ...
 ```
-其中，```foo``` 为要打包的文件夹，```foo.tar``` 为打包之后的文件名，习惯 ```.tar``` 作为后缀
+其中，```fxxx``` 为要打包的文件/文件夹，```foo.tar``` 为打包之后的文件名，习惯 ```.tar``` 作为后缀
 
 
 （2）打包并压缩
 ```bash
-tar -zcvf foo.tar.gz foo
+tar -zcvf foo.tar.gz f1 f2 ...
 ```
 ```-z``` 参数表示以 ```tar.gz``` 或者 ```.tgz``` 为后缀（经过gzip）压缩过的包
 
 ```bash
-tar -jcvf foo.tar.bz2 foo
+tar -jcvf foo.tar.bz2 f1 f2 ...
 ```
 ```-j``` 参数表示以```.tar.bz2``` 为后缀的压缩包
 
