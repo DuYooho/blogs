@@ -58,3 +58,11 @@ tar -zxvf foo.tar.gz -C <dir name>
 
 
 ### zip命令
+
+
+## Ubuntu + Windows 双系统远程重启互相切换
+
+```bash
+sudo grub-reboot 2 # 单次指定Windows系统
+sudo reboot
+```
